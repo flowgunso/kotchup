@@ -1,2 +1,1 @@
-# kotchup
-Projet informatique, DUT Stid S1
+Ce dépôt est desormais déplacé et archivé dans [gitlab.com/flow.gunso/kotchup](https://gitlab.com/flow.gunso/kotchup).
